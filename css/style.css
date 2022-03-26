@@ -5,19 +5,20 @@ body {
     margin-left: 250px;
     margin-top: 15px;
 }
+
 #navbar {
     position: fixed;
     left: 10px;
     top: 15px;
 }
 
-header{
-    font-size:20px;
+header {
+    font-size: 20px;
 }
 
-/*.nav-link {
+.nav-links {
     display: inherit;
-}*/
+}
 
 @media only screen and (max-width: 600px) {
     body {
